@@ -1,5 +1,5 @@
 dalex==1.4.1
-ipython==8.1.1
+ipython==7
 ipywidgets==7.7.0
 jupyter==1.0.0
 jupytext==1.13.7
